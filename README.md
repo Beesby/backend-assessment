@@ -5,7 +5,7 @@
   O teste a seguir é dividido em duas partes que serão avaliadas e deverão utilizar .Net Core. Dado o cenário em que a empresa NFE Now necessita de uma aplicação para cadastrar as notas fiscais por cliente.
 
 # 1ª parte:
-  Criar um micro serviço para cadastro de NFe de forma síncrona. Os campos para o cadastro da NFe são CNPJ, Endereço, Razão Social, Valor, Número da nota (este deverá ser gerado sequencialmente) e Número de série.
+  Criar um microserviço para cadastro de NFe de forma síncrona. Os campos para o cadastro da NFe são CNPJ, Endereço, Razão Social, Valor, Número da nota (este deverá ser gerado sequencialmente) e Número de série.
   
 # 2ª parte:
   Após um grande investimento em Marketing, o volume de clientes e emissões de NFe subiu consideravelmente. O SAC começou a receber inúmeras reclamações de notas duplicadas.
