@@ -14,7 +14,7 @@
   
   Desenvolva uma segunda versão para o cadastro NFe de forma assíncrona que resolva o problema citado.
     
-Os critérios que serão avaliados:
+# Os critérios que serão avaliados:
   - Injeção de depedência
   - Estratégia de testes
   - Lidar com Exceptions e Logs
